@@ -1,0 +1,2 @@
+age,sex,comorbidity_count,spo2,respiratory_rate,heart_rate,temperature_c,systolic_bp,diastolic_bp,crp_mg_l,d_dimer_ng_ml,lymphocyte_pct,neutrophil_pct,chest_xray_score,severity
+55,Male,1,94,22,96,37.8,118,76,40,600,24,68,1,Moderate
