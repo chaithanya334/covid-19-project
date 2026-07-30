@@ -108,7 +108,7 @@ To deliver an interactive app that:
 Show what the app looks like.
 
 **App Interface – Controls, Prediction & Dataset Preview**
-![COVID-19 Severity Classifier - Controls and Prediction](https://github.com/chaithanya334/COVID-19-Severity-Classifier/blob/main/covid_19_project.jpg)
+![COVID-19 Severity Classifier - Controls and Prediction](https://github.com/chaithanya334/covid-19-project/blob/main/covid%2019%20project.jpg)
 
 **Feature Importance – Permutation & Cumulative Importance**
 ![COVID-19 Severity Classifier - Feature Importance](https://github.com/chaithanya334/COVID-19-Severity-Classifier/blob/main/covid_19_project_2.jpg)
