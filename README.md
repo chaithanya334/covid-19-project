@@ -111,4 +111,4 @@ Show what the app looks like.
 ![COVID-19 Severity Classifier - Controls and Prediction](https://github.com/chaithanya334/covid-19-project/blob/main/covid%2019%20project.jpeg)
 
 **Feature Importance – Permutation & Cumulative Importance**
-![COVID-19 Severity Classifier - Feature Importance](https://github.com/chaithanya334/covid-19-project/blob/main/covid%2019%20project%201.jpg)
+![COVID-19 Severity Classifier - Feature Importance](https://github.com/chaithanya334/covid-19-project/blob/main/covid%2019%20project%201.jpeg)
